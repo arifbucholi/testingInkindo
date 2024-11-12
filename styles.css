@@ -42,7 +42,7 @@ header {
     position: fixed; /* Tetap di bagian atas halaman */
     top: -1px;
     left: 0;
-    width: 100%;
+    width: 100vw;
     z-index: 100; /* Menjaga navbar di atas konten lainnya */
     background: rgba(0, 0, 0, 0); /* Awalnya transparan */
     transition: background-color 0.5s ease; /* Transisi saat di-scroll */
